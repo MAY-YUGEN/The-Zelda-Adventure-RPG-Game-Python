@@ -1,0 +1,8 @@
+4.write a pro to create simlpe calculater of to numbers and give the out put accoding to user's choise.if user press 1 - addition , 2-subtraction,3-maltiplication,4-division or else invalid input.
+5.write a pro with prints odd numbers from the given rage by the user
+ (user will give starting number and anding number). odd aetle aeki shakhya 
+8.write a program to find out the length of the elemant and create a new list of 
+elemant length is greter  
+
+
+9. write a pro to remove duplicate values from the list and create a new list of the uniqe value (take intiger values only).
